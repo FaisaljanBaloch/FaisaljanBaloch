@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaisaljanBaloch
 - 👀 I’m interested in Python and Web + Data Science
-- 🌱 I’m currently learning Django, Machine Learning
+- 🌱 I’m currently learning PHP/LARAVEL & MYSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @justFaisalJan on Twitter
 
