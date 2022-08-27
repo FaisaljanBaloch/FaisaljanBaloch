@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaisaljanBaloch
-- 👀 I’m interested in Web and DataScience
-- 🌱 I’m currently learning PHP/LARAVEL & MYSQL
-- 💞️ I’m looking to collaborate on Opensource projects
+- 👀 I’m interested in developing apps which help individuals and organizations.
+- 🌱 I’m currently learning React/Flutter
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me [@justFaisalJan](https://twitter.com/justFaisaljan) on Twitter
 
 <!---
