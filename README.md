@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaisaljanBaloch
 - 👀 I’m interested in developing apps which help individuals and organizations.
-- 🌱 I’m currently learning Java Spring Boot/Flutter
+- 🌱 I’m currently learning Backend Development using TypeScript and NodeJS
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me [@justFaisalJan](https://twitter.com/justFaisaljan) on Twitter
 
