@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaisaljanBaloch
-- 👀 I’m interested in developing apps which help individuals and organizations.
-- 🌱 I’m currently learning Backend Development and Cloud using Go, aka Golang.
+- 👀 I’m interested in working with Data to find out solutions of problems in businesses, environment, and much more. 
+- 🌱 I’m currently learning Data Science using R from a course by David Kane.
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me [@justFaisalJan](https://twitter.com/justFaisaljan) on Twitter
 
