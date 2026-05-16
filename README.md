@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaisaljanBaloch
 - 👀 I’m interested in working with Data to find out solutions of problems in businesses, environment, and much more. 
-- 🌱 I’m currently learning Data Science using R from a course by David Kane.
+- 🌱 I’m currently doing a master's in Data Science for Management at the University of Parma.
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me [@justFaisalJan](https://twitter.com/justFaisaljan) on Twitter
 
